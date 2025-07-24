@@ -12,7 +12,7 @@ This project is a secure RESTful API for managing users in an event management s
   
 5. **[#5: Adjust LoginRequest Schema](https://github.com/carlos-fuentes15/event_manager/issues/5)**  
   
-1. **Fork the Project Repository**: Fork the [project repository](https://github.com/carlos-fuentes15/event_manager) to your own GitHub account.
+1. **Fork the Project Repository**: Forked the [project repository](https://github.com/carlos-fuentes15/event_manager)
    
 Docker Image: [https://hub.docker.com/r/csf1515/event_manager](https://hub.docker.com/r/csf1515/event_manager)
 
