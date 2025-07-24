@@ -24,7 +24,7 @@ This assignment greatly improved my ability to use FastAPI for real-world backen
 
 I learned how to use GitHub Issues and branches to manage tasks collaboratively using the issue-based workflow. Clean code and agile techniques were reinforced through the creation of tests, the tying of changes to issues, and the use of GitHub Actions to ensure CI/CD. Additionally, I discovered how crucial clear commit messages and documentation are to long-term maintenance and team visibility.
 
-## ✅ Running the Project
+## Running the Project
 
 ```bash
 docker-compose up --build
